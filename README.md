@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janki-1712
-- 👀 I’m interested in web developement, 3D modeling , Python 
-- 🌱 I’m currently learning BE in ICT
+- 👀 I’m interested in Data Science, LLMs, Python I do UX Design in my leisure time
+- 🌱 I’m currently persuing M.Tech in Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jankimaradia2001@gmail.com
 
